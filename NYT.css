@@ -1,0 +1,46 @@
+body{
+background-color: white;
+max-width: 100%;
+display: flex;
+align-items: center;
+flex-flow: column;
+}
+
+.nav_bar{
+display: flex;
+flex-flow: row;
+max-height: 60px;
+justify-content: space-between;
+max-width: 1000px;
+align-items: center;
+}
+.register{
+display: flex;
+flex-flow: row;
+
+}
+.logo{
+max-height: 50px;
+}
+.dropdown{
+display: flex;
+flex-flow: row;
+max-height: 60px;
+
+}
+.btns{
+margin-left: 10px;
+margin-right: 10px;
+}
+main{
+display: flex;
+flex-flow: column;
+align-items: center;
+}
+.art-img{
+max-width: 750px;
+}
+.h1{
+font-family: Serif;
+
+}
