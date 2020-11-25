@@ -196,13 +196,13 @@ span{
     display: grid;
     width: 85%;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr ;
+    grid-template-rows: 1fr 0.5fr 1fr ;
     align-content: center;
     height: 500px;
-    row-gap: 50px;
+    row-gap: 70px;
     position: relative;
-    left: 10px;
-    top: 130px;
+    left: 20px;
+    top: 150px;
 }
 .span-multi{
     font-size: 15px;
