@@ -16,6 +16,7 @@ p{
 }
 .nav_bar{
     display: flex;
+    z-index: 100;
     position: sticky;
     flex-wrap: nowrap;
     top: 0;
