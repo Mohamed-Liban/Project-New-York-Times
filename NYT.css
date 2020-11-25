@@ -198,7 +198,6 @@ span{
     grid-template-rows: 1fr 1fr ;
     align-content: center;
     height: 500px;
-    /* gap: 45px; */
     row-gap: 50px;
     position: relative;
     left: 10px;
